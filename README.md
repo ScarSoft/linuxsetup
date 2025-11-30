@@ -19,3 +19,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/USERNAME/REPO.git
 cd REPO
+
+
+chmod +x setup.sh
+./setup.sh
