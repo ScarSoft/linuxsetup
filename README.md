@@ -8,7 +8,6 @@ The script performs the following:
 - Updates and upgrades the system
 - Installs Python3 pip
 - Runs external install scripts (example: Atuin)
-- Can be customized to include additional packages and commands
 
 ---
 
