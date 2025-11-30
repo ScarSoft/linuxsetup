@@ -18,7 +18,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ScarSoft/linuxsetup.git
-cd REPO
+cd linuxsetup
 ```
 ## Install the and run the script
 
