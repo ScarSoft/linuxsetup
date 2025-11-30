@@ -10,4 +10,7 @@ sudo apt install -y python3-pip
 echo "Running Atuin install script..."
 curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
 
+echo "Installing cloc"
+sudo apt install cloc -y
+
 echo "Setup complete!"
