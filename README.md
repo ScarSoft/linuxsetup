@@ -12,14 +12,17 @@ The script performs the following:
 
 ---
 
-## 📥 Download the Script
+## Download the Script
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/USERNAME/REPO.git
 cd REPO
+```
+## Install the and run the script
 
-
+```bash
 chmod +x setup.sh
 ./setup.sh
+```
