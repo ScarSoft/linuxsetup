@@ -13,4 +13,7 @@ curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
 echo "Installing cloc"
 sudo apt install cloc -y
 
+echo "Installing fzf"
+sudo apt install fzf
+
 echo "Setup complete!"
