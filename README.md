@@ -17,7 +17,7 @@ The script performs the following:
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/ScarSoft/linuxsetup.git
 cd REPO
 ```
 ## Install the and run the script
